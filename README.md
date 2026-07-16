@@ -9,7 +9,7 @@
 ---
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-sohambaijal.dev-2EA8FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
+#[![Website](https://img.shields.io/badge/Website-sohambaijal.dev-2EA8FF?style=for-the-badge&logo=googlechrome&logoColor=white)]                #  (https://yourwebsite.com)
 [![Research](https://img.shields.io/badge/Research-Quantitative%20Finance-4B5563?style=for-the-badge&logo=bookstack&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-soham@email.com-0B2A4A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
