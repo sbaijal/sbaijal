@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Baijal-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sbaijal05)
 
 </div>
+<br>
 
 ## Current Research
 
