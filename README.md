@@ -5,6 +5,7 @@
 ### Quantitative Research • Systematic Trading • Financial Engineering
 
 *"Building systematic investment strategies through mathematics, statistics, and machine learning."*
+</div>
 
 ---
 <div align="center">
@@ -14,6 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-baijalsoham5@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baijalsoham5@email.com)
 
 </div>
+---
 <br>
 
 ## Current Research
