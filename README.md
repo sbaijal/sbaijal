@@ -9,9 +9,9 @@
 ---
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-sohambaijal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sbaijal)
+[![GitHub](https://img.shields.io/badge/GitHub-sbaijal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sbaijal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Baijal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbaijal05)
-[![Email](https://img.shields.io/badge/Email-soham@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baijalsoham5@email.com)
+[![Email](https://img.shields.io/badge/Email-baijalsoham5@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baijalsoham5@email.com)
 
 </div>
 <br>
