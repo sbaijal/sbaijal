@@ -15,8 +15,11 @@
 [![Email](https://img.shields.io/badge/Email-baijalsoham5@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baijalsoham5@email.com)
 
 </div>
----
 <br>
+## Summary
+My work focuses on developing statistically robust and reproducible quantitative models for financial markets.
+
+Research interests include stochastic processes, derivatives pricing, time series modelling, optimization, and systematic trading.
 
 ## Current Research
 
