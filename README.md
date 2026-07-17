@@ -23,6 +23,16 @@ My repositories document end-to-end quantitative research—from mathematical mo
 
 ---
 
+## Skills
+
+| **Category** | **Skills** |
+|--------------|------------|
+| **Programming Languages** | Python, SQL, C++, Java |
+| **Quantitative Methods** | Statistical Modelling, Volatility Forecasting, Hypothesis Testing, Derivative Pricing, Time Series Analysis, Backtesting, Monte Carlo Simulation |
+| **Mathematics** | Probability Theory, Statistics, Linear Algebra, Calculus, Stochastic Processes, Optimization |
+| **Libraries** | NumPy, pandas, SciPy, scikit-learn, statsmodels, Matplotlib, arch |
+
+---
 ## Current Research
 
 - Statistical Arbitrage
