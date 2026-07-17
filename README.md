@@ -12,14 +12,14 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-sbaijal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sbaijal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Baijal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbaijal05)
-[![Email](https://img.shields.io/badge/Email-baijalsoham5@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baijalsoham5@email.com)
+[![Email](https://img.shields.io/badge/Email-baijalsoham5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baijalsoham5@gmail.com)
 
 </div>
 
 ## Summary
 My work focuses on developing statistically robust and reproducible quantitative models for financial markets.
-
 Research interests include stochastic processes, derivatives pricing, time series modelling, optimization, and systematic trading.
+My repositories document end-to-end quantitative research—from mathematical modelling and data engineering to backtesting and performance evaluation—with an emphasis on reproducibility and rigorous analysis.
 
 ## Current Research
 
@@ -60,165 +60,6 @@ Execution
 ```
 
 ---
-
-# Featured Research
-
-## Statistical Arbitrage
-
-Continuous-time statistical arbitrage framework using:
-
-- Engle-Granger Cointegration
-- Ornstein-Uhlenbeck Process
-- Optimal Stopping Theory
-- Dynamic Position Sizing
-- Walk-forward Backtesting
-
----
-
-## Yield Curve Modelling
-
-Interest-rate modelling using
-
-- Nelson-Siegel Model
-- Nelson-Siegel-Svensson
-- PCA of Yield Curves
-- Forward Rate Extraction
-- Yield Forecasting
-
----
-
-## Heston Volatility Model
-
-Research involving
-
-- Stochastic Volatility
-- Characteristic Functions
-- Monte Carlo Simulation
-- Option Pricing
-- Calibration Techniques
-
----
-
-## Portfolio Optimization
-
-Research in
-
-- Mean-Variance Optimization
-- Risk Parity
-- Black-Litterman
-- Efficient Frontier
-- CVaR Optimization
-
----
-
-# Research Interests
-
-| Area | Focus |
-|------|-------|
-| Time Series Analysis | ★★★★★ |
-| Statistical Arbitrage | ★★★★★ |
-| Derivatives | ★★★★★ |
-| Stochastic Calculus | ★★★★☆ |
-| Machine Learning | ★★★★☆ |
-| Market Microstructure | ★★★★☆ |
-| Portfolio Theory | ★★★★★ |
-
----
-
-# Research Toolkit
-
-### Programming
-
-```text
-Python
-C++
-Java
-SQL
-MATLAB
-```
-
-### Scientific Computing
-
-```text
-NumPy
-Pandas
-SciPy
-Statsmodels
-Scikit-Learn
-Polars
-JAX
-PyTorch
-```
-
-### Quantitative Finance
-
-```text
-QuantLib
-cvxpy
-PyPortfolioOpt
-Backtrader
-vectorbt
-arch
-```
-
----
-
-# Featured Repositories
-
-| Repository | Description |
-|------------|-------------|
-| Statistical Arbitrage | Mean-reversion strategy using cointegration and optimal stopping |
-| Yield Curve Modelling | Nelson-Siegel, PCA and forecasting |
-| Heston Model | Option pricing and stochastic volatility |
-| Portfolio Optimization | Modern portfolio theory implementations |
-| Quant Research Notebooks | Mathematical finance notebooks |
-| Market Microstructure | Order book and execution research |
-
----
-
-# Research Philosophy
-
-> Every trading strategy begins as a hypothesis.
->
-> The objective is not to maximize returns,
-> but to maximize statistically significant and reproducible alpha.
-
----
-
-# Education
-
-**MSc Banking & International Finance**
-
-Bayes Business School
-
-**MSc Financial Engineering**
-
-WorldQuant University
-
-**B.Tech Computer Science**
-
-The LNM Institute of Information Technology
-
----
-
-# Currently Learning
-
-- Market Microstructure
-- Reinforcement Learning
-- High Frequency Trading
-- Bayesian Statistics
-- Probabilistic Machine Learning
-
----
-
-# Connect
-
-- LinkedIn
-- Email
-- GitHub
-
----
-
 <div align="center">
 
 *"Markets reward discipline, not prediction."*
