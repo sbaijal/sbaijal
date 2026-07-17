@@ -21,6 +21,8 @@ My work focuses on developing statistically robust and reproducible quantitative
 Research interests include stochastic processes, derivatives pricing, time series modelling, optimization, and systematic trading.
 My repositories document end-to-end quantitative research—from mathematical modelling and data engineering to backtesting and performance evaluation—with an emphasis on reproducibility and rigorous analysis.
 
+---
+
 ## Current Research
 
 - Statistical Arbitrage
